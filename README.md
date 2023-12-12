@@ -11,11 +11,11 @@ All Maven projects are -- if not mentioned otherwise -- command line programs wi
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
 | `Datumsarithmetik` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Datumsarithmetik) | Simple class for date arithmetic, example for BDD with cucumber |
-| `Kehrbruch` | [Link](https://github.com/MDecker-MobileComputing/Maven_Kehrbruch) | Simple app for refactoring exercise |
-| `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen) | Generator for lotto numbers (German "6 aus 49"), Demo for GitHub Actions |
-| `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom checker, for exercise on unit testing |
+| `Kehrbruch` | [Link](https://github.com/MDecker-MobileComputing/Maven_Kehrbruch) | Simple app for refactoring exercise; [GH Actions Workflow](https://github.com/MDecker-MobileComputing/Maven_Kehrbruch/tree/master/.github/workflows) |
+| `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen) | Generator for lotto numbers (German "6 aus 49"), Demo for GitHub Actions; [GH Actions Workflow]([https://github.com/MDecker-MobileComputing/Maven_Palindromchecker/tree/master/.github/workflows](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen/tree/master/.github/workflows)) |
+| `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom checker, for exercise on unit testing; [GH Actions Workflow](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker/tree/master/.github/workflows) |
 | `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API with embedded Jetty servlet container |
-| `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates; [Matrix Build](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen/blob/42d4031b2f13cc0cc25ae411ae3fbe2efb6c34ce/.github/workflows/maven.yml#L10-L13) |
+| `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates; [GH Actions Workflow mit Matrix Build](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen/blob/42d4031b2f13cc0cc25ae411ae3fbe2efb6c34ce/.github/workflows/maven.yml#L10-L13) |
 | ... | ... | ... |
 
 <br>
