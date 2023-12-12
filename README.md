@@ -4,7 +4,7 @@
 
 List of all my GitHub repositories with [Maven](https://maven.apache.org/) projects.
 
-All Maven projects are -- if not mentioned otherwise -- command line programs with Java.
+All Maven projects are – if not mentioned otherwise – command line programs with Java.
 
 <br>
 
