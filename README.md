@@ -18,6 +18,5 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API with embedded Jetty servlet container |
 | `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/) |
 | `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates; [GH Actions Workflow mit Matrix Build](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen/blob/42d4031b2f13cc0cc25ae411ae3fbe2efb6c34ce/.github/workflows/maven.yml#L10-L13) |
-| ... | ... | ... |
 
 <br>
