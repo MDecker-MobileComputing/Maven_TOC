@@ -16,7 +16,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom checker, for exercise on unit testing; [GH Actions Workflow](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker/tree/master/.github/workflows) |
 | `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangramm checker, example for programming with *GitHub Copilot*; [GH Actions Workflow](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker/blob/master/.github/workflows/maven.yml) |
 | `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API with embedded Jetty servlet container |
-| `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/) |
+| `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/); [GitHub Actions Workflow](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo/blob/master/.github/workflows/maven.yml) |
 | `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates; [GH Actions Workflow mit Matrix Build](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen/blob/42d4031b2f13cc0cc25ae411ae3fbe2efb6c34ce/.github/workflows/maven.yml#L10-L13) |
 
 <br>
